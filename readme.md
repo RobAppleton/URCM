@@ -1,8 +1,9 @@
-# Unified Recursive Cosmological Model (URCM)
+﻿# Unified Recursive Cosmological Model (URCM)
 
 The **Unified Recursive Cosmological Model (URCM)** proposes a structurally recursive framework for cosmology that replaces scalar-field inflation and arbitrary initial conditions with symbolic operator logic. URCM models the universe’s origin, evolution, and entropy dynamics as the output of constrained symbolic grammars, governed by operator sets such as `Ĉ`, `Ŝ`, and `T̂`.
 
 This repository contains core simulation scripts, prototype grammars, empirical test modules, and evolving documentation intended for both research and reproducibility.
+robin.appleton@protonmail.com
 
 ---
 
