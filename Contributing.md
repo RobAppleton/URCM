@@ -1,123 +1,106 @@
-# Unified Recursive Cosmological Model (URCM)
+# Contributing to URCM
 
-The **Unified Recursive Cosmological Model (URCM)** proposes a structurally recursive framework for cosmology that replaces scalar-field inflation and arbitrary initial conditions with symbolic operator logic. URCM models the universe’s origin, evolution, and entropy dynamics as the output of constrained symbolic grammars, governed by operator sets such as `Ĉ`, `Ŝ`, and `T̂`.
+Thank you for your interest in contributing to the **Unified Recursive Cosmological Model (URCM)** project. Whether you're here to submit code, propose a symbolic operator, raise a theoretical challenge, or improve the documentation, we’re glad to have you.
 
-This repository contains core simulation scripts, prototype grammars, empirical test modules, and evolving documentation intended for both research and reproducibility.
-
----
-
-## Overview
-
-URCM is designed to:
-
-- Address the low-entropy problem without resorting to inflation.
-- Construct cosmic structure via recursive symbolic operations.
-- Provide falsifiable predictions and engage directly with empirical data.
-- Serve as a testbed for operator-based cosmological simulations.
+This guide outlines the process for contributing and the standards we follow.
 
 ---
 
-## Key Features
+## Table of Contents
 
-| Feature                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| Recursive Logic Engine   | Simulates evolution via rule-driven symbolic operators.                    |
-| Entropy Resolution       | Models entropy as residue of recursive constraint failure.                 |
-| Empirical Alignment      | Engages data from Planck, BICEP2, and LiteBIRD missions.                   |
-| Comparative Metrics      | Includes falsifiability and self-maintenance tracking across cycles.        |
-
----
-
-## Directory Structure
-
-```
-urcm/
-├── urcm_core.py              # Main symbolic recursion engine
-├── operators/
-│   ├── init_operator_set.py  # Primary operator definitions (Ĉ, Ŝ, T̂)
-│   └── transition_rules.py   # Logic for operator evolution and collapse
-├── grammars/
-│   ├── motif_generator.py    # Builds structured symbolic grammars
-│   └── constraint_evaluator.py
-├── tests/
-│   ├── test_operator_cycles.py
-├── data/
-│   └── empirical_tests/      # Output data and model comparison snapshots
-└── docs/
-    └── URCM_Theory.pdf       # Theoretical description of URCM model
-```
+- [How to Contribute](#how-to-contribute)
+- [Code Standards](#code-standards)
+- [Symbolic Operators and Theory Contributions](#symbolic-operators-and-theory-contributions)
+- [Documentation](#documentation)
+- [Issues and Feature Requests](#issues-and-feature-requests)
+- [Code of Conduct](#code-of-conduct)
 
 ---
 
-## Installation
+## How to Contribute
 
-Ensure Python 3.8+ and basic scientific libraries (NumPy, Matplotlib) are installed.
+1. **Fork the Repository**  
+   Use GitHub’s fork button to create your own copy of the project.
 
-```bash
-git clone https://github.com/<your-username>/URCM.git
-cd URCM
-pip install -r requirements.txt
-```
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/your-username/urcm.git
+   ```
+
+3. **Create a Branch**
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**
+
+5. **Commit with a Clear Message**
+   ```bash
+   git commit -m "Add: New symbolic operator for recursive transition"
+   ```
+
+6. **Push and Open a Pull Request**
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+   Then, go to the original repo and open a PR with a clear summary.
 
 ---
 
-## Running Simulations
+## Code Standards
 
-Example: generate 100,000 recursion cycles and visualise operator transitions:
-
-```bash
-python urcm_core.py --cycles 100000 --mode symbolic --visualise
-```
-
-To test the model against LiteBIRD forecast parameters:
-
-```bash
-python tests/test_operator_cycles.py --compare litebird
-```
+- Use clear, descriptive function and variable names.
+- Include inline comments where reasoning or recursion logic may not be obvious.
+- Python 3.10+ is preferred. Format code using `black` or `ruff`.
+- Include at least one test if adding simulation logic.
 
 ---
 
-## Empirical Context
+## Symbolic Operators and Theory Contributions
 
-URCM has been designed with the following datasets and observations in mind:
+We welcome proposals for:
 
-- Planck 2018 full-mission CMB power spectra
-- BICEP2 B-mode polarisation measurements
-- LiteBIRD forecast constraints (expected 2030)
-- Baryon acoustic oscillations and Type Ia supernovae reconstructions
+- New **operator sequences** (with rationale)
+- Revisions to **existing recursion grammars**
+- Empirical challenges or **testable predictions**
+
+Please submit these in Markdown format under `/operators/proposals/` or via the Issues tab.
 
 ---
 
 ## Documentation
 
-Full model description and working draft preprint can be found in:
+We value clarity. If you notice something that could be better explained:
 
-- `docs/URCM_Theory.pdf`
-- `docs/EmpiricalAppendix_B.pdf`
-
-Key sections include:
-
-- Chapter 1 — Introduction to Recursive Symbolic Cosmology  
-- Chapter 6 — Recursive Entropy Constraints  
-- Chapter 9.7 — Empirical Counterpoints: BICEP2, LiteBIRD  
-- Appendix B — Model Comparison Tables  
+- Submit a pull request editing the relevant `.md` files.
+- Add new visual aids or operator diagrams to `/docs/figures`.
+- Typos and grammar fixes are always welcome.
 
 ---
 
-## Contributing
+## Issues and Feature Requests
 
-Researchers, coders, and critics are welcome. See `CONTRIBUTING.md` for:
+If you encounter bugs, unexpected behaviour, or want to request a new feature:
 
-- Coding and simulation guidelines  
-- Protocol for motif or operator proposals  
-- Empirical falsifiability rules  
-
----
-
-## License
-
-MIT License. See `LICENSE.md` for terms.
+- Use the **Issues** tab.
+- Please be as specific as possible—logs, screenshots, or test cases help.
+- Tag your issue appropriately: `bug`, `enhancement`, `operator`, `question`, etc.
 
 ---
 
-> “If this framework is correct, the universe doesn’t waste — it remembers, cycles, and evolves by recursion, not chance.”
+## Code of Conduct
+
+This project is a space for rigorous, respectful discourse.  
+We ask that you:
+
+- Be constructive in feedback.
+- Challenge ideas, not people.
+- Credit contributors fairly.
+
+See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) for full details.
+
+---
+
+## Acknowledgement
+
+This is a model-in-progress, open to iteration, challenge, and even collapse under data. Contributions of all kinds are welcomed—especially those that improve falsifiability or simulate edge cases.
