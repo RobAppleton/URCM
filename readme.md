@@ -1,4 +1,4 @@
-# Unified Recursive Cosmological Model (URCM)
+﻿# Unified Recursive Cosmological Model (URCM)
 
 The **Unified Recursive Cosmological Model (URCM)** proposes a structurally recursive framework for cosmology that replaces scalar-field inflation and arbitrary initial conditions with symbolic operator logic. URCM models the universe’s origin, evolution, and entropy dynamics as the output of constrained symbolic grammars, governed by operator sets such as `Ĉ`, `Ŝ`, and `T̂`.
 
@@ -121,3 +121,6 @@ MIT License. See `LICENSE.md` for terms.
 ---
 
 > “If this framework is correct, the universe doesn’t waste — it remembers, cycles, and evolves by recursion, not chance.”
+
+<a href="https://doi.org/10.5281/zenodo.16737978"><img src="https://zenodo.org/badge/1031538014.svg" alt="DOI"></a>
+

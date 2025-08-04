@@ -1,0 +1,31 @@
+{
+  "title": "Unified Recursive Cosmological Model (URCM)",
+  "creators": [
+    {
+      "name": "Appleton, Robin",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0004-4016-5990"
+    }
+  ],
+  "description": "URCM is a theoretical and simulation framework for recursive cosmology. This release includes the foundational model, core operator definitions, and empirical metrics for falsifiable testing against CMB, neutrino, and structure formation data.",
+  "license": "CC-BY-4.0",
+  "version": "v1.0.0",
+  "keywords": [
+    "cosmology",
+    "recursion",
+    "entropy",
+    "CMB",
+    "simulation",
+    "URCM",
+    "operators"
+  ],
+  "upload_type": "software",
+  "publication_date": "2025-08-04",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/RobAppleton/URCM",
+      "scheme": "url"
+    }
+  ]
+}
