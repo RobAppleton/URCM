@@ -120,5 +120,6 @@ Researchers, coders, and critics are welcome. See `CONTRIBUTING.md` for:
 MIT License. See `LICENSE.md` for terms.
 
 ---
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/6f54ae44-b1cb-4f9a-a154-b14bf87e1fa8" />
 
 > “If this framework is correct, the universe doesn’t waste — it remembers, cycles, and evolves by recursion, not chance.”
