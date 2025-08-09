@@ -1,4 +1,4 @@
-# Contributing to URCM
+﻿# Contributing to URCM
 
 I appreciate your interest in contributing to the **Unified Recursive Cosmological Model (URCM)** project. Whether you're here to submit code, 
 propose a symbolic operator, raise a theoretical challenge, or improve the documentation, we’re glad to have you.

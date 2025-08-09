@@ -1,0 +1,17 @@
+Why I Wrote the URCM Project
+
+Back in my late twenties, I found myself circling a strange question: What actually happens when a black hole eats something? Does it vanish? Does it echo? Could that act, somehow, trigger the next Big Bang? I even entertained the idea that black holes might send matter and energy backwards through time, all the way to the year dot, seeding a new universe.
+
+I didn’t plan to write a cosmological model. For almost thirty years, I’ve carried odd patterns, visual structures, and strange ideas about the universe in my head—none of which seemed to slot neatly into existing theories. I’m not a trained physicist. I’m just someone who couldn’t stop thinking about the same deep questions, again and again. Having Asperger’s probably helps—I tend to visualise in pictures or floating idea-bubbles, rather than strict equations.
+
+As artificial intelligence got smarter, I started feeding it my fragments—my old thoughts, loose hypotheses, curious diagrams—and asking it questions. Slowly, it helped me parse the jumble. What was once a scatter of mental notes began to form clearer structures. I saw patterns inside the patterns, and followed them deeper.
+
+Out of that collaboration came the Unified Recursive Cosmological Model—URCM. I didn’t invent the mathematics all at once. I simply connected concepts that felt intuitively right and asked the machine to test them, simulate them, or carry them forward when I got stuck.
+
+This project is the product of pattern-seeking, stubborn curiosity, and a willingness to lay the whole thing bare. I’m not pretending to have all the answers. I’m just showing the work—because maybe someone else will see what I saw. Or maybe they’ll see something even better.
+
+And if this helps someone look at the universe differently, or build something testable from it, then I’ll know it was worth doing.
+
+I hope you enjoy my work, it has no use unless it is shared.
+
+Rob Appleton Aug 2025

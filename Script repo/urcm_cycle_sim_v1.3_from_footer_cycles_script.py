@@ -1,1 +1,0 @@
-# Placeholder to match urcm_cycle_sim_v1.3_4x2in_80dpi_10fps_cycles_and_footer.gif
